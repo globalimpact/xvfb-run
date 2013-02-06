@@ -31,7 +31,7 @@ SERVERNUM=0
 AUTHFILE=/root/.Xauthority
 ERRORFILE=/dev/null
 STARTWAIT=3
-XVFBARGS="-screen 0 1024x768x24"
+XVFBARGS="-screen 0 1280x1024x24"
 LISTENTCP="-nolisten tcp"
 XAUTHPROTO=.
 
